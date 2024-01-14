@@ -5,12 +5,12 @@ This is a machine learning model creation project to complete a class on Dicodin
 
 ## Run steamlit app
 ```
-streamlit run stremlit_bike_rent.py
+streamlit run genre_prediction_streamlit.py
 or
-python -m streamlit run stremlit_bike_rent.py
+python -m genre_prediction_streamlit.py
 ```
 ## link for steamlit app
-https://bike-rent-analysis-ipf2bmgymrjgwmnupgatra.streamlit.app/
+https://movie-genre-prediction-aeubqqcbdg6zbqbtg9tdbv.streamlit.app/
 
 ![Alt text](image.png)
 
