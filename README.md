@@ -10,7 +10,7 @@ or
 python -m genre_prediction_streamlit.py
 ```
 ## Link for steamlit app
-https://movie-genre-prediction-aeubqqcbdg6zbqbtg9tdbv.streamlit.app/
+https://movie-genre-prediction-f48jjgougry94gyeepfsvk.streamlit.app/
 
 ![Alt text](image.png)
 
