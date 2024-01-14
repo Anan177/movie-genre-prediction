@@ -17,7 +17,7 @@ st.header('NLP Model for Predicting Movie Genres')
 
 st.markdown("""##### Description
 + This is a simple model for predicting the genre of a movie based on its summary, using an artificial neural network with Long Short-Term Memory (LSTM) Layer.
-+ DISCLAIMER: This model is only trained to predict movies with the genres of ACTION, DOCUMENTARY, or HORROR, using english languange.
++ DISCLAIMER: This model is only trained to predict movies with the genres of ACTION, DOCUMENTARY, or HORROR, using english language.
             """)
 
 st.sidebar.subheader("About App")
