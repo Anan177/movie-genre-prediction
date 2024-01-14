@@ -1,15 +1,16 @@
 # movie-genre-prediction
- Natural Language Processing Project
+Natural Language Processing Project
 
- This is a machine learning model creation project to complete a class on Dicoding Indonesia, with the following targets:
+This is a machine learning model creation project to complete a class on Dicoding Indonesia.
 
-1. The dataset has 3 classes or more and a minimum of 2000 data samples.
-2. Must use LSTM in the model architecture.
-3. Must use a sequential model.
-4. The validation set is 20% of the total dataset.
-5. Must use Embedding.
-6. Must use a tokenizer function.
-7. Accuracy on the training set and validation set above 90%.
-8. Implement a callback.
-9. Create plots for loss and accuracy during training and validation
+## Run steamlit app
+```
+streamlit run stremlit_bike_rent.py
+or
+python -m streamlit run stremlit_bike_rent.py
+```
+## link for steamlit app
+https://bike-rent-analysis-ipf2bmgymrjgwmnupgatra.streamlit.app/
+
+![Alt text](image.png)
 
